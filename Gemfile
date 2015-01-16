@@ -41,3 +41,6 @@ gem 'spring',        group: :development
 gem 'devise', github: 'plataformatec/devise'
 
 gem 'friendly_id', '5.0.0.beta1'
+
+gem 'carrierwave'
+gem 'rmagick'
